@@ -1,0 +1,6 @@
+Name,Team,Position,Height,Weight,Birthdate
+John Smith,Team A,Forward,180,75,01/01/1995
+Jane Doe,Team B,Midfield,170,65,02/02/1990
+Bob Johnson,Team C,Defense,190,85,03/03/1985
+John Smith,Team A,,180,75,01/01/1995
+Jane Doe,Team B,Midfield,170,65,02/02/1990
