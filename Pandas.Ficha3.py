@@ -14,7 +14,8 @@ print(df)
 
 # subsitutir valores nao numericas
 df['NumericColumn']= df['NumericColumn'].replace('[^0-9.]', '', regex=True).astype(float)
+print(df)
 
 # criar uma nova coluna
-df['Novacoluna'] = df['Column1'] + df['Column2']
+df['Novacoluna'] = df['Newname1'] + df['NumericColumn']
 print(df)
